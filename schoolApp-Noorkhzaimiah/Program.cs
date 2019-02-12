@@ -11,6 +11,7 @@ namespace schoolApp_Noorkhzaimiah
         static void Main(string[] args)
         {
             Manager m = new Manager();
+
             m.name = "uniqueManager";
             m.Managerid = 123123;
          }
