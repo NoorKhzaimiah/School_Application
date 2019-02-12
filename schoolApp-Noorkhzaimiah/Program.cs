@@ -13,6 +13,7 @@ namespace schoolApp_Noorkhzaimiah
             Manager m = new Manager();
 
             m.name = "uniqueManager";
+
             m.Managerid = 123123;
          }
     }
